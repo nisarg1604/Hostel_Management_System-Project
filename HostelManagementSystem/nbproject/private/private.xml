@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/HostelManagementSystem/web/login.jsp</file>
+            <file>file:/D:/HostelManagementSystem/web/adminLogin.jsp</file>
+            <file>file:/D:/HostelManagementSystem/web/student/gatepass.jsp</file>
+            <file>file:/D:/HostelManagementSystem/src/java/com/hostel/dao/StudentDAO.java</file>
+            <file>file:/D:/HostelManagementSystem/web/admin/students.jsp</file>
+            <file>file:/D:/HostelManagementSystem/src/java/com/hostel/controller/AddStudentServlet.java</file>
+            <file>file:/D:/HostelManagementSystem/src/java/com/hostel/model/Student.java</file>
+            <file>file:/D:/HostelManagementSystem/web/admin/addStudent.jsp</file>
+            <file>file:/D:/HostelManagementSystem/src/java/com/hostel/controller/AdminLoginServlet.java</file>
+            <file>file:/D:/HostelManagementSystem/src/java/com/hostel/controller/GatePassServlet.java</file>
+            <file>file:/D:/HostelManagementSystem/src/java/com/hostel/controller/ComplaintServlet.java</file>
+            <file>file:/D:/HostelManagementSystem/web/admin/rooms.jsp</file>
+            <file>file:/D:/HostelManagementSystem/web/admin/dashboard.jsp</file>
+            <file>file:/D:/HostelManagementSystem/src/java/com/hostel/dao/RoomDAO.java</file>
+            <file>file:/D:/HostelManagementSystem/web/index.jsp</file>
+            <file>file:/D:/HostelManagementSystem/web/student/dashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>
