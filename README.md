@@ -1,7 +1,10 @@
 <img width="1919" height="871" alt="Screenshot 2026-03-26 235816" src="https://github.com/user-attachments/assets/9f4b3b84-6fb9-4c99-a2b7-205cd1393dde" /># 🏠 Hostel Management System
 
-A web-based Hostel Management System built using Java (JSP/Servlets) and MySQL.
-This project helps manage students, rooms, complaints, gate passes, and fees.
+The Hostel Management System is a web-based application designed to simplify and automate hostel management processes. It is developed using Java (JSP/Servlets) following the MVC architecture and uses MySQL as the backend database.
+
+This system allows students to perform activities such as applying for gate passes, submitting complaints, and viewing fee status. On the other hand, administrators can manage student records, allocate rooms, approve or reject requests, and handle complaints.
+
+The main goal of this project is to reduce manual work, improve efficiency, and provide a centralized system for managing hostel-related operations.
 
 ## 📌 Features
 
